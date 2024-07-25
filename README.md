@@ -2,7 +2,7 @@
 
 Welcome to the Simple C# Application! This project is a beginner-friendly introduction to C# programming. It covers the basics of setting up a C# environment, writing and running a simple program, and understanding fundamental concepts.
 
-## Screenshot
+## Screenshots
 
 ![Main Screenshot](.readme/1.png)
 ![Main Screenshot](.readme/2.png)
